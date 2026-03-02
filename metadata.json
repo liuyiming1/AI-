@@ -1,0 +1,5 @@
+{
+  "name": "Image Style Converter",
+  "description": "Upload an image and convert it to various styles like Cyberpunk, Watercolor, Anime, Oil Painting, Sketch, or a custom style.",
+  "requestFramePermissions": []
+}
